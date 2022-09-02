@@ -552,8 +552,8 @@ Cell[BoxData[
               Opacity[0.66]}], {}, {}], 
            RectangleBox[{2., 0}, {4., 0.55}, "RoundingRadius" -> 0]},
           
-          ImageSizeCache->{{23.23452662390838, 
-           89.56612957106103}, {-102.49550200188607`, 95.07812499999999}}],
+          ImageSizeCache->{{22.73452662390838, 
+           90.06612957106103}, {-102.99550200188607`, 95.57812499999999}}],
          "DelayedMouseEffectStyle"],
         StatusArea[#, 0.55]& ,
         TagBoxNote->"0.55"],
